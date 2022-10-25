@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.card {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  width: 250px;
+  margin: 20px;
+}
+
+.img-card {
+  width: 250px;
+  height: 180px;
+}
+
+.name {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #0f172a;
+}
